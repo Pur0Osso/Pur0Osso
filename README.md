@@ -1,16 +1,16 @@
-## Hi there 👋
+---
+### 👋 Fala, pessoal! Eu sou o Cassiano!
+Seja muito bem-vindo ao meu perfil! 🚀
 
-<!--
-**Pur0Osso/Pur0Osso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 Sobre mim:
+Tenho 22 anos, sou do Rio de Janeiro e gosto de programação, jogos, séries e música. Estou sempre buscando aprender e explorar mais esse universo da tecnologia—tão fascinante (e estressante! XD).
 
-Here are some ideas to get you started:
+### 🎓 Formação:
+Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio e estou me aprofundando em Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Interesses:
+Minha maior afinidade é com o back-end, mas também me aventuro no front-end. Além disso, sou fã de jogos com histórias envolventes!
+
+### 🤝 Bora trocar uma ideia!
+Sempre aberto a aprender, colaborar e compartilhar conhecimento.
+---
