@@ -14,3 +14,6 @@ Minha maior afinidade é com o back-end, mas também me aventuro no front-end. A
 ### 🤝 Bora trocar uma ideia!
 Sempre aberto a aprender, colaborar e compartilhar conhecimento.
 ---
+<p align="center">
+  <img src="https://media1.tenor.com/m/6y61hTjvYhcAAAAC/hollow-knight.gif" alt="Knight descansando" width="400"/>
+</p>
