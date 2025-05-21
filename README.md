@@ -8,8 +8,8 @@ Tenho 22 anos, sou do Rio de Janeiro e gosto de programação, jogos, séries e 
 ### 🎓 Formação:
 Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio e estou me aprofundando em Python.
 
-### 📖 Conteudos
-Materias que estou aprendendo atualmente:
+### 📖 Conteúdos
+Matérias que estou aprendendo atualmente:
 - Tópicos de Big Data em Pyhton
 - Desenv. rápido de apliações em Python
 - Métodos ágeis com scrum
