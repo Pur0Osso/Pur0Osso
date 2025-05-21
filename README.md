@@ -3,7 +3,7 @@
 Seja muito bem-vindo ao meu perfil! 🚀
 
 ### 📌 Sobre mim:
-Tenho 22 anos, sou do Rio de Janeiro e gosto de programação, jogos, séries e música. Estou sempre buscando aprender e explorar mais esse universo da tecnologia—tão fascinante (e estressante! XD).
+Tenho 22 anos, sou do Rio de Janeiro e gosto de programação, jogos, séries e música. Estou sempre buscando aprender e explorar mais esse universo da tecnologia tão fascinante (e estressante! XD).
 
 ### 🎓 Formação:
 Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio e estou me aprofundando em Python.
