@@ -23,20 +23,22 @@
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
-### Sobre mim:
+<div align="Left">
+ <h2>Sobre mim:</h2>
 
 - <img src="./emojis/Nerd Face.png" height="25" width="25"> Gosto de programação, séries e música <br />
 - <img src="./emojis/Writing Hand Light Skin Tone.png" height="25" width="25"> Estou sempre buscando conhecer e aprender mais sobre esse universo da tecnologia tão interessante (e estressante! XD).<br />
 - <img src="./emojis/Bar Chart.png" height="25" width="25"> Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio e estou me aprofundando em Python. <br />
 - <img src="./emojis/Man Technologist Light Skin Tone.png" height="25" width="25"> Estou me integrando mais no front-end, porem consigo mexer no back-end se precisar! <br />
 - <img src="./emojis/Folded Hands Light Skin Tone.png" height="25" width="25"> Sempre aberto a aprender, colaborar e compartilhar conhecimento. <br />
+</div>
 
 ## &nbsp;My Stack
 
 <img src="https://skillicons.dev/icons?i=vscode,html,css,python,java,nodejs,git,github,mysql&theme=dark" />
 
-<h3>Contact Me</h3>
 <div align="left">
+<h2>Contact Me</h2>
 <p>
 	<a href = "mailto:Kcyzera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href="https://www.linkedin.com/in/cassiano-cypriano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -90,8 +92,9 @@
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=24&pause=1000&color=C92DE6&vCenter=true&width=435&lines=Até+mais!+te+vejo+por+ai+😉" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=24&pause=1000&color=C92DE6&vCenter=false&width=435&lines=Bem+vindos+ao+meu+perfil!!+%3A)" alt="Typing SVG" /></a>
 
 <!-- <div align="center">
     <img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
+
 </div> -->
