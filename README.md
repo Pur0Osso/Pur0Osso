@@ -14,7 +14,7 @@ Matérias que estou aprendendo atualmente:
 - Aplic. de Cloud, Iot e Industria 4.0 em Python
 
 ### 💻 Interesses:
-Minha maior afinidade é com o back-end, mas também me aventuro no front-end. Além disso, sou fã de jogos com histórias envolventes!
+Estou me integrando mais no front-end, porem consigo mexer no back-end se precisar!
 
 ### 🤝 Bora trocar uma ideia!
 Sempre aberto a aprender, colaborar e compartilhar conhecimento.
