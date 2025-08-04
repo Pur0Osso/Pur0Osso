@@ -10,11 +10,8 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio e estou me 
 
 ### 📖 Conteúdos
 Matérias que estou aprendendo atualmente:
-- Tópicos de Big Data em Pyhton
-- Desenv. rápido de apliações em Python
-- Métodos ágeis com scrum
-- Padrões de projetos de software com java
-- Engenharia de usabilidade
+- Programação Para Dispositivos Móveis em Android
+- Aplic. de Cloud, Iot e Industria 4.0 em Python
 
 ### 💻 Interesses:
 Minha maior afinidade é com o back-end, mas também me aventuro no front-end. Além disso, sou fã de jogos com histórias envolventes!
