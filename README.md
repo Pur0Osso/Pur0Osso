@@ -92,11 +92,12 @@
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=24&pause=1000&color=C92DE6&vCenter=true&width=435&separator=%3C&lines=At%C3%A9+mais,+te+vejo+por+ai!+;)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=24&pause=1000&color=C92DE6&center=true&vCenter=true&width=435&separator=%3C&lines=At%C3%A9+mais,+te+vejo+por+ai!+;)" alt="Typing SVG" /></a>
 <!-- <div align="center">
     <img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
 
 </div> -->
+
 
 
 
