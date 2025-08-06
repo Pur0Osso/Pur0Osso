@@ -26,7 +26,7 @@
 <div align="Left">
  <h2>Sobre mim:</h2>
 
-- <img src="./emojis/Nerd Face.png" height="25" width="25"> Gosto de programação, séries e música <br />
+- <img src="./emojis/Nerd Face.png" height="25" width="25"> Gosto de programação, séries, música e claro, jogos <br />
 - <img src="./emojis/Writing Hand Light Skin Tone.png" height="25" width="25"> Estou sempre buscando conhecer e aprender mais sobre esse universo da tecnologia tão interessante (e estressante! XD).<br />
 - <img src="./emojis/Bar Chart.png" height="25" width="25"> Atualmente, curso Análise e Desenvolvimento de Sistemas na Estácio e estou me aprofundando em Python. <br />
 - <img src="./emojis/Man Technologist Light Skin Tone.png" height="25" width="25"> Estou me integrando mais no front-end, porem consigo mexer no back-end se precisar! <br />
@@ -97,5 +97,6 @@
     <img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
 
 </div> -->
+
 
 
