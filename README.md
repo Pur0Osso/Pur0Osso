@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=24&pause=1000&color=C92DE6&vCenter=true&width=435&lines=Bem+vindos+ao+meu+perfil!!+%3A)" alt="Typing SVG" /></a>
 <p>
-  <img src="https://media1.tenor.com/m/6y61hTjvYhcAAAAC/hollow-knight.gif" alt="Knight descansando" width="400"/>
+  <img src="https://media1.tenor.com/m/6y61hTjvYhcAAAAC/hollow-knight.gif" alt="Cornifer fazendo um mapa" width="400"/>
 </p>
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
@@ -97,6 +97,7 @@
     <img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
 
 </div> -->
+
 
 
 
