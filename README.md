@@ -35,7 +35,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,python,java,nodejs,git,github,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,python,java,nodejs,git,github,mysql,sqlite&theme=dark" />
 
 <div align="left">
 <h2>Contact Me</h2>
@@ -97,6 +97,7 @@
     <img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
 
 </div> -->
+
 
 
 
