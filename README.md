@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=24&pause=1000&color=C92DE6&vCenter=true&width=435&lines=Bem+vindos+ao+meu+perfil!!+%3A)" alt="Typing SVG" /></a>
 <p>
-  <img src="https://media1.tenor.com/m/6y61hTjvYhcAAAAC/hollow-knight.gif" alt="Cornifer fazendo um mapa" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnNkMDNnZHlyNTUyY3M3dGMyejZ3eWtlbm5hZGJ1Zm0wYnhwdGdxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZcIAfREaiinyoaSwM5/giphy.gif" alt="jesus" width="400"/>
 </p>
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
@@ -93,15 +93,19 @@
 
 <img src="./another-images/lineBar.png" width="100%" height="8px"/>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=24&pause=1000&color=C92DE6&center=true&vCenter=true&width=435&separator=%3C&lines=At%C3%A9+mais%2C+te+vejo+por+ai!+;)" alt="Typing SVG" /></a>
-<p>
-  <img src="./papyrus-undertale.gif" alt="Cornifer fazendo um mapa" width="300"/>
-</p>
+<div align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=24&pause=1000&color=C92DE6&center=true&vCenter=true&width=435&separator=%3C&lines=At%C3%A9+mais%2C+te+vejo+por+ai!+;)" alt="Typing SVG" /></a>
+</div>
+<div align="center">
+	<a>
+  		<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBuNDk0bTFhbGNlNzA3cmFrcmJmc2IwNzVlcDBwaWN3ZGUzZDM3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tpvRClIbILau2naK9r/giphy.gif" alt="Jesus" width="300"/>
+	</a>
+</div>
 <!-- <div align="center">
     <img src="./gifs/chosen-jesus-apontando-frente.gif" width="400px">
 
 </div> -->
+
 
 
 
